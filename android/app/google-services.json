@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "66014782153",
+    "project_id": "flutter-chat-115c0",
+    "storage_bucket": "flutter-chat-115c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66014782153:android:adbb0f03c1aa905ad4a318",
+        "android_client_info": {
+          "package_name": "com.japgarmando.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66014782153-i1c0l7m8ethi0vvp4e0al3e258rm4phs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3HVqJlX6hQdYGTDBdWJKVxUgRk5IWJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66014782153-i1c0l7m8ethi0vvp4e0al3e258rm4phs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66014782153-bv5invl19bgb10hjv8o2t2crgsjdcvah.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japgarmando.flutterchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
